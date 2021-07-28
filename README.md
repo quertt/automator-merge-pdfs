@@ -12,21 +12,21 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Python
 
 ### Installation
 
-1. Step 1
-2. Step 2
-3. Step 3
-
-
+1. Install PyPDF2
+  ```sh
+  pip install PyPDF2
+  ```
+2. Download and move merge.py to /usr/local/bin/
+4. Create Quickaction in Automator
 
 
 ## Usage
+
+Select two PDFs to be combined, right-click and select Quickaction/Combine PDFs
 
 
 ## Contributing
